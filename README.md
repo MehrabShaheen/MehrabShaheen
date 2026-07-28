@@ -170,5 +170,3 @@ graph LR
 </pre>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a2634,100:0d1117&height=100&section=footer" width="100%"/>
-
-</div>
