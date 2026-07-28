@@ -5,136 +5,164 @@
 <!--
 =====================================================================
 MEHRAB SHAHEEN — GITHUB PROFILE README
-STYLE: Clean, professional, blue theme. Minimal animation (top banner +
-typing effect only). No gimmicks, no childish emojis, recruiter-focused.
-Fill in every [ ] placeholder with your real information.
+THEME: Dark-navy / neon-cyan HUD console — custom SVG header, footer,
+and section dividers (no external gimmick tools for the visual identity).
+Neat, professional, recruiter-focused. Minimal animation, used only
+where it adds meaning (scanline, glow pulse, blinking cursor).
+
+SETUP REQUIRED:
+1. Create a repo named exactly like your GitHub username, make it public.
+2. Inside it, create an /assets folder and upload:
+   - header-scan.svg
+   - divider.svg
+   - footer-scan.svg
+3. Paste this file as README.md in that repo root.
+4. Replace every [ ] placeholder with your real information.
 =====================================================================
 -->
 
 <div align="center">
-
-<!-- Custom animated SVG banner: dark-navy HUD panel, radar scan-line sweep,
-     pulsing glow text, blinking status cursor. Place header-scan.svg in an
-     /assets folder in your repo and this relative path will render it. -->
 <img src="./assets/header-scan.svg" alt="Mehrab Shaheen — Blue Team Security" width="100%"/>
+</div>
+
+<div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1500&color=1F6FEB&center=true&vCenter=true&width=600&lines=Fresh+IT+Graduate+%E2%80%94+University+of+Chakwal;Focused+on+SOC+Operations+%26+Threat+Detection;Building+AI-Assisted+Security+Tooling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=18&pause=1600&color=5FD4E8&center=true&vCenter=true&width=650&lines=Fresh+IT+Graduate+%E2%80%94+University+of+Chakwal;Focused+on+SOC+Operations+%26+Threat+Detection;Building+AI-Assisted+Security+Tooling;Open+to+SOC+Analyst+%2F+Blue+Team+Roles" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-1F6FEB?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="[YOUR_GITHUB_URL]"><img src="https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="[YOUR_TRYHACKME_URL]"><img src="https://img.shields.io/badge/TryHackMe-142B4C?style=flat-square&logo=tryhackme&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=flat-square&color=1F6FEB&label=PROFILE+VIEWS" />
+<a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/EMAIL-0D1B2A?style=for-the-badge&logoColor=5FD4E8&color=0D1B2A&labelColor=0D1B2A" /></a>
+<a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LINKEDIN-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=5FD4E8" /></a>
+<a href="[YOUR_GITHUB_URL]"><img src="https://img.shields.io/badge/GITHUB-0D1B2A?style=for-the-badge&logo=github&logoColor=5FD4E8" /></a>
+<a href="[YOUR_TRYHACKME_URL]"><img src="https://img.shields.io/badge/TRYHACKME-0D1B2A?style=for-the-badge&logo=tryhackme&logoColor=5FD4E8" /></a>
+<img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=for-the-badge&color=0D1B2A&label=VIEWS" />
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
-## Professional Summary
+## `// 01` Profile Summary
 
-Fresh BS Information Technology graduate (University of Chakwal, 2022–2026, CGPA 3.48/4.0) building a career in
-Blue Team security operations. Practical experience in SIEM alert investigation, log analysis, and malware sample
-analysis, along with a Final Year Project focused on an agentic RAG-based system for AI-assisted SOC alert triage.
+Fresh **BS Information Technology** graduate (University of Chakwal, 2022–2026, CGPA 3.48/4.0) building a career
+in **Blue Team security operations**. Practical, hands-on focus rather than theory alone — comfortable
+investigating SIEM alerts, tracing malware samples through static/dynamic analysis, and now building AI-assisted
+tooling to make SOC triage faster and less noisy for analysts.
 
----
+[Optional: add 1–2 personal lines here — what pulled you toward blue team / SOC specifically.]
 
-## Education
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+
+## `// 02` Education
 
 | Degree | Institution | Duration | CGPA |
 |---|---|---|---|
 | BS Information Technology | University of Chakwal | 2022 – 2026 | 3.48 / 4.0 |
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
-## Experience
+## `// 03` Experience
 
 **[Role / Title]** — [Company Name]
 [Start Month Year] – [End Month Year]
 
-- [Responsibility 1]
-- [Responsibility 2]
-- [Responsibility 3]
+- [Responsibility 1 — e.g. Monitored SIEM alerts, performed initial triage]
+- [Responsibility 2 — e.g. Investigated logs across endpoints using Wazuh/Suricata]
+- [Responsibility 3 — e.g. Documented findings and escalated confirmed incidents]
 
-*(Replace with real internship details, or remove this section and keep only "Practical Experience" below if none yet.)*
+*(If no internship yet, replace this block with "Practical Experience" describing home-lab / FYP work — do not leave it blank or fabricate a role.)*
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
-## Technical Skills
+## `// 04` Technical Skills
 
-**SOC & Blue Team:** Alert Triage & Investigation · Log Analysis · SIEM Monitoring (Wazuh, Suricata) · Incident Documentation
+**SOC & Blue Team**
+![Alert Triage](https://img.shields.io/badge/Alert%20Triage-0D1B2A?style=flat-square&color=0D1B2A&labelColor=0D1B2A&logoColor=5FD4E8)
+![Wazuh](https://img.shields.io/badge/Wazuh-0D1B2A?style=flat-square&logo=wazuh&logoColor=5FD4E8)
+![Suricata](https://img.shields.io/badge/Suricata-0D1B2A?style=flat-square&logo=suricata&logoColor=5FD4E8)
 
-**Malware Analysis:** Static & Dynamic Analysis · String/IOC Extraction · Sandbox Analysis (Any.Run, Hybrid Analysis)
+**Malware Analysis**
+![Static/Dynamic Analysis](https://img.shields.io/badge/Static%20%26%20Dynamic%20Analysis-0D1B2A?style=flat-square&labelColor=0D1B2A)
+![Any.Run](https://img.shields.io/badge/Any.Run-0D1B2A?style=flat-square&labelColor=0D1B2A)
+![Hybrid Analysis](https://img.shields.io/badge/Hybrid%20Analysis-0D1B2A?style=flat-square&labelColor=0D1B2A)
 
-**AI for Security:** Agentic RAG (LangGraph, ChromaDB) · LLM-Based Alert Classification · RAGAS Evaluation
+**AI for Security**
+![LangGraph](https://img.shields.io/badge/LangGraph-0D1B2A?style=flat-square&labelColor=0D1B2A)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1B2A?style=flat-square&labelColor=0D1B2A)
+![RAGAS](https://img.shields.io/badge/RAGAS%20Evaluation-0D1B2A?style=flat-square&labelColor=0D1B2A)
 
-**Development:** Python · FastAPI · React.js · PostgreSQL
-
-<div align="center">
+**Development**
+<div>
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,linux,bash,git,github" />
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
-## Featured Project — AI-Assisted SOC (Agentic RAG)
+## `// 05` Certifications & Achievements
+
+| Status | Title | Issuer | Year |
+|---|---|---|---|
+| ✅ | [Certification Name] | [Issuer] | [Year] |
+| 🔄 | [Certification Name — In Progress] | [Issuer] | — |
+| 🏆 | [Achievement — e.g. Best FYP Nomination, Competition, Publication] | [Details] | [Year] |
+
+*(List only real, held items — remove rows that don't apply yet.)*
+
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+
+## `// 06` Featured Project — AI-Assisted SOC (Agentic RAG)
 
 **Final Year Project · University of Chakwal, Dept. of CS & IT**
 Supervisor: Ms. Zainab Nawab · Team: Mehrab Shaheen, Amna Nisar, Hira Ghous
 
-An agentic RAG pipeline that ingests SOC alerts from Wazuh/Suricata, retrieves relevant context from ChromaDB, and
-uses LangGraph-based LLM reasoning to classify and investigate alerts — reducing analyst workload from false
-positives.
+An agentic RAG pipeline that ingests SOC alerts from Wazuh/Suricata, retrieves relevant historical/threat context
+from ChromaDB, and uses LangGraph-based LLM reasoning to classify and investigate alerts — reducing analyst
+workload from false-positive noise.
+
+**System Architecture**
 
 ```mermaid
 flowchart LR
-    A[Wazuh / Suricata Alerts] --> B[FastAPI Ingestion]
+    A[Wazuh / Suricata Alerts] --> B[FastAPI Ingestion Layer]
     B --> C[ChromaDB Vector Store]
     C --> D[LangGraph Agentic RAG]
-    D --> E{LLM Classification}
+    D --> E{LLM Verdict}
     E -->|True Positive| F[Escalate to Analyst]
-    E -->|False Positive| G[Auto-Close]
-    E -->|Ambiguous| H[Manual Review]
+    E -->|False Positive| G[Auto-Close + Log]
+    E -->|Ambiguous| H[Manual Review Queue]
+    D --> I[React.js SOC Dashboard]
 ```
 
-**Tech:** LangGraph · ChromaDB · FastAPI · React.js · Wazuh · Suricata · PostgreSQL
+**Tech Stack:** LangGraph · ChromaDB · FastAPI · React.js · Wazuh · Suricata · PostgreSQL
 **Repository:** [LINK]
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
-## Other Projects
+## `// 07` Other Projects
 
-| Project | Description | Tech | Link |
+| Project | Description | Tech | Repository |
 |---|---|---|---|
-| SOC Alert Classifier | LLM-based TRUE_POSITIVE / FALSE_POSITIVE / AMBIGUOUS verdict engine | Python | [LINK] |
-| Malware Analysis Reports | Static & dynamic writeups — Agent Tesla, Remcos, LockBit, Emotet-style | PMAT-labs, Any.Run | [LINK] |
-| Portfolio Website | Dark, SOC-themed site with a live simulated alert feed | HTML/CSS/JS | [LINK] |
+| SOC Alert Classifier | LLM-based TRUE_POSITIVE / FALSE_POSITIVE / AMBIGUOUS verdict engine with 6 behavioral indicator categories | Python | [LINK] |
+| Malware Analysis Reports | Static & dynamic analysis writeups — Agent Tesla, Remcos, LockBit, Emotet-style samples with IOCs | PMAT-labs, Any.Run, theZoo | [LINK] |
+| Portfolio Website | Dark, SOC-themed site with a live simulated alert feed | HTML / CSS / JS | [LINK] |
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
-## Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| [Certification Name] | [Issuer] | [Year] |
-
-*(Remove or mark as "In Progress" if not yet completed.)*
-
----
-
-## GitHub Stats
+## `// 08` GitHub Activity
 
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=blue-green&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=blue-green&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=5FD4E8&icon_color=00F0FF&text_color=c9d1d9&bg_color=0D1B2A" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=dark&hide_border=true&background=0D1B2A&ring=00F0FF&fire=00F0FF&currStreakLabel=5FD4E8" />
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
-## Contact
+## `// 09` Contact
 
-[YOUR_EMAIL] · [YOUR_LINKEDIN_URL] · [YOUR_GITHUB_URL] · Punjab, Pakistan
+[YOUR_EMAIL] · [YOUR_LINKEDIN_URL] · [YOUR_GITHUB_URL] · [YOUR_TRYHACKME_URL] · Punjab, Pakistan
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+<div align="center">
+<img src="./assets/footer-scan.svg" width="100%"/>
+</div>
+
