@@ -1,7 +1,5 @@
 # Mehrab-Shaheen-Portfolio
 
-
-
 <!--
 =====================================================================
 MEHRAB SHAHEEN — GITHUB PROFILE README
