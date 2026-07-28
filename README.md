@@ -1,172 +1,136 @@
 # Mehrab-Shaheen-Portfolio
+
+
 <!--
 =====================================================================
 MEHRAB SHAHEEN — GITHUB PROFILE README
-CONCEPT: "SOC Analyst Console" — profile framed as a terminal/SIEM
-console boot sequence, alert cards instead of generic project boxes,
-and an incident-response-style skills/journey diagram.
+STYLE: Clean, professional, blue theme. Minimal animation (top banner +
+typing effect only). No gimmicks, no childish emojis, recruiter-focused.
 Fill in every [ ] placeholder with your real information.
 =====================================================================
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a2634&height=180&section=header" width="100%"/>
-
-</div>
-
-<pre>
-<code>
-┌──────────────────────────────────────────────────────────────────┐
-│  soc-console:~$ whoami                                           │
-│  mehrab.shaheen — blue team analyst (aspiring) / IT graduate     │
-│                                                                    │
-│  soc-console:~$ cat status.log                                   │
-│  [OK] BS Information Technology — University of Chakwal (2022-2026)
-│  [OK] CGPA: 3.48 / 4.0                                            │
-│  [OK] Location: Punjab, Pakistan                                  │
-│  [ACTIVE] Focus: SOC Ops · Malware Analysis · Detection Eng · DFIR│
-└──────────────────────────────────────────────────────────────────┘
-</code>
-</pre>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mehrab%20Shaheen&fontSize=44&fontColor=E8F4FD&fontAlignY=42&desc=Blue%20Team%20Security%20%7C%20SOC%20Analyst%20%7C%20Malware%20Analysis%20%7C%20DFIR&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=%3E+investigating+alert...+verdict%3A+TRUE_POSITIVE;%3E+building+agentic+RAG+for+SOC+triage;%3E+parsing+malware+strings...+IOC+extracted;%3E+status%3A+open+to+SOC+Analyst+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1500&color=1F6FEB&center=true&vCenter=true&width=600&lines=Fresh+IT+Graduate+%E2%80%94+University+of+Chakwal;Focused+on+SOC+Operations+%26+Threat+Detection;Building+AI-Assisted+Security+Tooling" alt="Typing SVG" />
 </a>
 
-</div>
-
 <br/>
 
-<!-- Contact strip styled as system tags, not generic badges -->
-<div align="center">
-
-<code>root@mehrab</code> → 
-<a href="mailto:[YOUR_EMAIL]"><code>email</code></a> ·
-<a href="[YOUR_LINKEDIN_URL]"><code>linkedin</code></a> ·
-<a href="[YOUR_GITHUB_URL]"><code>github</code></a> ·
-<a href="[YOUR_TRYHACKME_URL]"><code>tryhackme</code></a> ·
-<code>views: </code><img align="center" src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=flat-square&color=39D353&label=" height="18"/>
+<a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-1F6FEB?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="[YOUR_GITHUB_URL]"><img src="https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="[YOUR_TRYHACKME_URL]"><img src="https://img.shields.io/badge/TryHackMe-142B4C?style=flat-square&logo=tryhackme&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=flat-square&color=1F6FEB&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
----
+## Professional Summary
 
-## `[case_id: 0x01]` About This Analyst
-
-Fresh IT graduate transitioning into **Blue Team security operations**. Rather than a checklist of buzzwords,
-here's the real working style: comfortable reading raw logs and PCAPs, patient enough to trace a sample through
-static and dynamic analysis, and now building AI-assisted tooling to make SOC triage faster and less noisy.
-
-> [Optional 1-2 lines — what drives you into blue team specifically, add a personal note here.]
+Fresh BS Information Technology graduate (University of Chakwal, 2022–2026, CGPA 3.48/4.0) building a career in
+Blue Team security operations. Practical experience in SIEM alert investigation, log analysis, and malware sample
+analysis, along with a Final Year Project focused on an agentic RAG-based system for AI-assisted SOC alert triage.
 
 ---
 
-## `[case_id: 0x02]` Skill Inventory — Severity Tagged
+## Education
 
-*(Severity here = confidence/comfort level, borrowed from alert-triage language — not a real threat rating)*
+| Degree | Institution | Duration | CGPA |
+|---|---|---|---|
+| BS Information Technology | University of Chakwal | 2022 – 2026 | 3.48 / 4.0 |
 
-<table>
-<tr><td><code>CRITICAL</code></td><td>Alert Triage & Investigation · Log Analysis (Wazuh/Suricata) · Malware Static/Dynamic Analysis</td></tr>
-<tr><td><code>HIGH</code></td><td>Python · FastAPI · LangGraph / Agentic RAG · ChromaDB · Prompt Engineering</td></tr>
-<tr><td><code>MEDIUM</code></td><td>React.js · PostgreSQL · RAGAS Evaluation · Report Writing / Documentation</td></tr>
-<tr><td><code>MONITORING</code></td><td>[Add tools you're currently learning — e.g. Splunk, YARA, Volatility]</td></tr>
-</table>
+---
+
+## Experience
+
+**[Role / Title]** — [Company Name]
+[Start Month Year] – [End Month Year]
+
+- [Responsibility 1]
+- [Responsibility 2]
+- [Responsibility 3]
+
+*(Replace with real internship details, or remove this section and keep only "Practical Experience" below if none yet.)*
+
+---
+
+## Technical Skills
+
+**SOC & Blue Team:** Alert Triage & Investigation · Log Analysis · SIEM Monitoring (Wazuh, Suricata) · Incident Documentation
+
+**Malware Analysis:** Static & Dynamic Analysis · String/IOC Extraction · Sandbox Analysis (Any.Run, Hybrid Analysis)
+
+**AI for Security:** Agentic RAG (LangGraph, ChromaDB) · LLM-Based Alert Classification · RAGAS Evaluation
+
+**Development:** Python · FastAPI · React.js · PostgreSQL
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,linux,bash,git,docker" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,linux,bash,git,github" />
 </div>
 
 ---
 
-## `[case_id: 0x03]` Incident Response Log — Featured Work
+## Featured Project — AI-Assisted SOC (Agentic RAG)
 
-<table>
-<tr>
-<td width="100%">
+**Final Year Project · University of Chakwal, Dept. of CS & IT**
+Supervisor: Ms. Zainab Nawab · Team: Mehrab Shaheen, Amna Nisar, Hira Ghous
 
-**INC-001 · AI-Assisted SOC — Agentic RAG Alert Triage** `[FYP]`
-Final Year Project, University of Chakwal · Supervisor: Ms. Zainab Nawab · Team: Amna Nisar, Hira Ghous
-Agentic RAG pipeline that ingests Wazuh/Suricata alerts, retrieves context via ChromaDB, and reasons through
-LangGraph to cut down false-positive noise for analysts.
-`LangGraph` `ChromaDB` `FastAPI` `React.js` `PostgreSQL` — **Repo:** [LINK]
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**INC-002 · LLM-Based SOC Alert Classifier**
-Production-style classification engine — TRUE_POSITIVE / FALSE_POSITIVE / AMBIGUOUS verdicts using 6 behavioral
-indicator categories with priority-ordered decision logic.
-`Python` `Prompt Engineering` — **Repo:** [LINK]
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**INC-003 · Malware Analysis Reports**
-Static & dynamic analysis writeups — Agent Tesla, Remcos, LockBit, Emotet-style samples — with IOCs and behavioral
-indicators, written up for portfolio-grade review.
-`PMAT-labs` `Any.Run` `Hybrid Analysis` `theZoo` — **Repo:** [LINK]
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**INC-004 · [Portfolio Site — Dark Terminal / SOC Aesthetic]**
-Single-file animated site with a live simulated alert feed.
-`HTML` `CSS` `JS` — **Repo:** [LINK] · **Demo:** [LINK]
-
-</td>
-</tr>
-</table>
-
-<!-- Add more INC-00X rows as new projects ship -->
-
----
-
-## `[case_id: 0x04]` Escalation Path — How I Got Here
+An agentic RAG pipeline that ingests SOC alerts from Wazuh/Suricata, retrieves relevant context from ChromaDB, and
+uses LangGraph-based LLM reasoning to classify and investigate alerts — reducing analyst workload from false
+positives.
 
 ```mermaid
-graph LR
-    A["Detection<br/>BS IT @ University of Chakwal"] --> B["Triage<br/>Home Lab: Wazuh + Suricata"]
-    B --> C["Analysis<br/>Malware RE: Agent Tesla, Remcos, LockBit"]
-    C --> D["Containment<br/>FYP: Agentic RAG SOC System"]
-    D --> E["Resolution<br/>Open to SOC Analyst Roles"]
+flowchart LR
+    A[Wazuh / Suricata Alerts] --> B[FastAPI Ingestion]
+    B --> C[ChromaDB Vector Store]
+    C --> D[LangGraph Agentic RAG]
+    D --> E{LLM Classification}
+    E -->|True Positive| F[Escalate to Analyst]
+    E -->|False Positive| G[Auto-Close]
+    E -->|Ambiguous| H[Manual Review]
 ```
 
+**Tech:** LangGraph · ChromaDB · FastAPI · React.js · Wazuh · Suricata · PostgreSQL
+**Repository:** [LINK]
+
 ---
 
-## `[case_id: 0x05]` Certifications
+## Other Projects
 
-<!-- Only real, held certifications. Delete row if none, or mark as "In Progress". -->
-
-| Status | Certification | Issuer | Year |
+| Project | Description | Tech | Link |
 |---|---|---|---|
-| ✅ | [Cert Name] | [Issuer] | [Year] |
-| 🔄 | [Cert Name — In Progress] | [Issuer] | — |
+| SOC Alert Classifier | LLM-based TRUE_POSITIVE / FALSE_POSITIVE / AMBIGUOUS verdict engine | Python | [LINK] |
+| Malware Analysis Reports | Static & dynamic writeups — Agent Tesla, Remcos, LockBit, Emotet-style | PMAT-labs, Any.Run | [LINK] |
+| Portfolio Website | Dark, SOC-themed site with a live simulated alert feed | HTML/CSS/JS | [LINK] |
 
 ---
 
-## `[case_id: 0x06]` Telemetry
+## Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| [Certification Name] | [Issuer] | [Year] |
+
+*(Remove or mark as "In Progress" if not yet completed.)*
+
+---
+
+## GitHub Stats
 
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=github-dark-blue&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=blue-green&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=blue-green&hide_border=true" />
 </div>
 
 ---
 
-<pre align="center">
-<code>soc-console:~$ echo "case closed — analyst online"
-[END OF LOG]</code>
-</pre>
+## Contact
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a2634,100:0d1117&height=100&section=footer" width="100%"/>
+[YOUR_EMAIL] · [YOUR_LINKEDIN_URL] · [YOUR_GITHUB_URL] · Punjab, Pakistan
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
