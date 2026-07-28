@@ -1,6 +1,7 @@
 # Mehrab-Shaheen-Portfolio
 
 
+
 <!--
 =====================================================================
 MEHRAB SHAHEEN — GITHUB PROFILE README
@@ -12,7 +13,10 @@ Fill in every [ ] placeholder with your real information.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mehrab%20Shaheen&fontSize=44&fontColor=E8F4FD&fontAlignY=42&desc=Blue%20Team%20Security%20%7C%20SOC%20Analyst%20%7C%20Malware%20Analysis%20%7C%20DFIR&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<!-- Custom animated SVG banner: dark-navy HUD panel, radar scan-line sweep,
+     pulsing glow text, blinking status cursor. Place header-scan.svg in an
+     /assets folder in your repo and this relative path will render it. -->
+<img src="./assets/header-scan.svg" alt="Mehrab Shaheen — Blue Team Security" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1500&color=1F6FEB&center=true&vCenter=true&width=600&lines=Fresh+IT+Graduate+%E2%80%94+University+of+Chakwal;Focused+on+SOC+Operations+%26+Threat+Detection;Building+AI-Assisted+Security+Tooling" alt="Typing SVG" />
