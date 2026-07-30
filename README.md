@@ -1,200 +1,254 @@
-<!--
-=====================================================================
-MEHRAB SHAHEEN — GITHUB PROFILE README (RESTRUCTURED LAYOUT)
-Same dark-navy / neon-cyan HUD theme, but the STRUCTURE is different:
-- Quick-facts info card instead of a plain paragraph
-- Skill proficiency bars (custom SVG) instead of badge lists
-- Vertical timeline visual instead of an education table
-- Collapsible <details> project cards instead of a static table
-
-SETUP:
-1. Repo named exactly like your GitHub username, public.
-2. Upload to repo ROOT: header-scan.svg, divider.svg, footer-scan.svg,
-   skill-bars.svg, timeline.svg
-3. Paste this as README.md.
-4. Replace every [ ] placeholder.
-=====================================================================
--->
-
 <div align="center">
-<img src="./header-scan.svg" alt="Mehrab Shaheen — Blue Team Security" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=17&pause=1600&color=5FD4E8&center=true&vCenter=true&width=650&lines=Fresh+IT+Graduate+%E2%80%94+University+of+Chakwal;Focused+on+SOC+Operations+%26+Threat+Detection;Open+to+SOC+Analyst+%2F+Blue+Team+Roles" alt="Typing SVG" />
+<!-- HERO SVG -->
+
+<img src="./assets/hero.svg" width="100%" alt="Mehrab Shaheen"/>
+
+# Mehrab Shaheen
+
+### Security Operations • Detection Engineering • AI Security
+
+Building intelligent security solutions that transform raw telemetry into actionable threat intelligence.
+
+<p>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
 </div>
+## About
 
-<br/>
+Cybersecurity graduate specializing in **Security Operations (SOC)**, **Detection Engineering**, and **AI-assisted security automation**. My work focuses on building practical security solutions that improve threat detection, investigation, and incident response through intelligent analysis, behavioral correlation, and modern security engineering practices.
+## Core Expertise
 
-<!-- QUICK-FACTS CARD: business-card layout, two columns, no long paragraph -->
-<table width="100%">
+<p align="center">
+
+<img src="https://img.shields.io/badge/SOC%20Operations-08131F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Detection%20Engineering-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Threat%20Hunting-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Incident%20Response-0284C7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Security-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Security%20Automation-1D4ED8?style=for-the-badge"/>
+
+</p>
+---
+
+# ⭐ AI-Assisted SOC
+
+> **Flagship Final Year Project**
+An enterprise-inspired **AI-assisted Security Operations Center (SOC)** platform designed to reduce alert fatigue and accelerate security investigations by transforming high-volume security telemetry into contextual, analyst-ready intelligence.
+> <p align="center">
+
+<img src="./assets/architecture-preview.png" width="95%"/>
+
+</p>
+## What It Delivers
+
+- AI-assisted alert investigation
+- Intelligent alert prioritization
+- Behavioral attack correlation
+- Context-aware security reasoning
+- Threat intelligence enrichment
+- Incident investigation assistance
+- Explainable security insights
+- Human-in-the-loop analyst support
+  ## Key Capabilities
+
+| Capability | Description |
+|------------|-------------|
+| 🧠 AI Investigation | Generates contextual investigation insights |
+| 🔍 Alert Triage | Prioritizes high-risk security events |
+| 🔗 Behavioral Correlation | Connects related attack activities |
+| 📚 Context Retrieval | Uses RAG for investigation context |
+| 🎯 Threat Intelligence | Enriches alerts with external intelligence |
+| 📊 SOC Dashboard | Centralized monitoring and investigation |
+| ⚡ AI Assistant | Supports analyst decision making |
+| 🛡 Explainable Analysis | Provides reasoning behind AI outputs |
+
+
+---
+
+# Tech Stack
+
+```md
+## Technology Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres"/>
+
+</p>
+
+<p align="center">
+
+<img src="./assets/wazuh.svg" height="45"/>
+<img src="./assets/langgraph.svg" height="45"/>
+<img src="./assets/chromadb.svg" height="45"/>
+
+</p>
+<div align="center">
+
+### Explore the complete project
+
+<a href="YOUR_AI_SOC_REPOSITORY">
+
+<img src="https://img.shields.io/badge/View%20Repository-0EA5E9?style=for-the-badge"/>
+
+</a>
+
+</div>
+# Featured Repositories
+
+<table>
+
 <tr>
-<td width="60%" valign="top">
 
-**Mehrab Shaheen**
-Aspiring SOC Analyst · Blue Team Security
+<td width="50%">
 
-Comfortable investigating SIEM alerts, tracing malware samples through static/dynamic analysis, and building
-AI-assisted tooling to make SOC triage faster and less noisy for analysts.
+<h3>🤖 AI-Assisted SOC</h3>
 
-[Optional: 1 personal line on what drew you to blue team.]
+Enterprise AI-powered SOC platform for intelligent alert investigation.
 
-</td>
-<td width="40%" valign="top">
-
-| | |
-|---|---|
-| 🎓 Degree | BS Information Technology |
-| 🏫 Institution | University of Chakwal |
-| 📅 Batch | 2022 – 2026 |
-| 📊 CGPA | 3.48 / 4.0 |
-| 📍 Location | Punjab, Pakistan |
-| 🎯 Target Roles | SOC Analyst · Malware Analyst · DFIR |
+<a href="">
+View Repository →
+</a>
 
 </td>
+
+<td width="50%">
+
+<h3>🛡 Enterprise SOC Lab</h3>
+
+Enterprise security monitoring environment with attack simulation.
+
+<a href="">
+View Repository →
+</a>
+
+</td>
+
 </tr>
+
+<tr>
+
+<td>
+
+<h3>🎯 Detection Engineering</h3>
+
+Detection rules, Sigma, Wazuh and security analytics.
+
+<a href="">
+View Repository →
+</a>
+
+</td>
+
+<td>
+
+<h3>🦠 Malware Analysis</h3>
+
+Static & dynamic malware analysis reports and reverse engineering.
+
+<a href="">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<h3>🏢 Active Directory Lab</h3>
+
+Enterprise AD attack and defense simulations.
+
+<a href="">
+View Repository →
+</a>
+
+</td>
+
+<td>
+
+<h3>🔍 Threat Hunting</h3>
+
+Threat hunting scenarios and incident investigations.
+
+<a href="">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+
 </table>
+# Technical Stack
 
-<div align="center">
+<p align="center">
 
-<a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/EMAIL-0D1B2A?style=flat-square&logoColor=5FD4E8" /></a>
-<a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LINKEDIN-0D1B2A?style=flat-square&logo=linkedin&logoColor=5FD4E8" /></a>
-<a href="[YOUR_GITHUB_URL]"><img src="https://img.shields.io/badge/GITHUB-0D1B2A?style=flat-square&logo=github&logoColor=5FD4E8" /></a>
-<a href="[YOUR_TRYHACKME_URL]"><img src="https://img.shields.io/badge/TRYHACKME-0D1B2A?style=flat-square&logo=tryhackme&logoColor=5FD4E8" /></a>
-<img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=flat-square&color=0D1B2A&label=VIEWS" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,docker,linux,bash,git,github,vscode"/>
 
-</div>
+</p>
 
-<div align="center"><img src="./divider.svg" width="100%"/></div>
+<p align="center">
 
-## `// 01` Journey So Far
+<img src="./assets/icons/wazuh.svg" width="42"/>
+<img src="./assets/icons/splunk.svg" width="42"/>
+<img src="./assets/icons/suricata.svg" width="42"/>
+<img src="./assets/icons/sysmon.svg" width="42"/>
+<img src="./assets/icons/pfsense.svg" width="42"/>
+<img src="./assets/icons/langgraph.svg" width="42"/>
+<img src="./assets/icons/chroma.svg" width="42"/>
+<img src="./assets/icons/mitre.svg" width="42"/>
 
-<div align="center">
-<img src="./timeline.svg" alt="Career timeline" width="100%"/>
-</div>
+</p>
+# Certifications
 
-<div align="center"><img src="./divider.svg" width="100%"/></div>
+| Certification | Status |
+|---------------|--------|
+| Google Cybersecurity | ✅ |
+| Cisco Networking Academy | ✅ |
+| EC-Council | ✅ |
+| TryHackMe | ✅ |
 
-## `// 02` Experience
+# Let's Connect
 
-<details>
-<summary><b>[Role / Title]</b> — [Company Name] · [Start Month Year] – [End Month Year]  <i>(click to expand)</i></summary>
-<br/>
+<p align="center">
 
-- [Responsibility 1 — e.g. Monitored SIEM alerts, performed initial triage]
-- [Responsibility 2 — e.g. Investigated logs across endpoints using Wazuh/Suricata]
-- [Responsibility 3 — e.g. Documented findings and escalated confirmed incidents]
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</details>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-*(If no internship yet, replace with a "Practical Experience" entry describing home-lab/FYP work — never fabricate a role.)*
+<a href="./assets/Mehrab_Shaheen_Resume.pdf">
+<img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white"/>
+</a>
 
-<div align="center"><img src="./divider.svg" width="100%"/></div>
-
-## `// 03` Skill Proficiency
-
-<div align="center">
-<img src="./skill-bars.svg" alt="Skill proficiency bars" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,linux,bash,git,github" />
-</div>
-
-<div align="center"><img src="./divider.svg" width="100%"/></div>
-
-## `// 04` Certifications & Achievements
-
-| Status | Title | Issuer | Year |
-|---|---|---|---|
-| ✅ | [Certification Name] | [Issuer] | [Year] |
-| 🔄 | [Certification Name — In Progress] | [Issuer] | — |
-| 🏆 | [Achievement] | [Details] | [Year] |
-
-*(Only real, held items — delete rows that don't apply.)*
-
-<div align="center"><img src="./divider.svg" width="100%"/></div>
-
-## `// 05` Projects
-
-<details open>
-<summary><b>🛡️ AI-Assisted SOC — Agentic RAG Alert Triage</b> <i>(Final Year Project)</i></summary>
-<br/>
-
-Final Year Project · University of Chakwal, Dept. of CS & IT
-Supervisor: Ms. Zainab Nawab · Team: Mehrab Shaheen, Amna Nisar, Hira Ghous
-
-An agentic RAG pipeline that ingests SOC alerts from Wazuh/Suricata, retrieves relevant context from ChromaDB, and
-uses LangGraph-based LLM reasoning to classify and investigate alerts — reducing analyst workload from false
-positives.
-
-```mermaid
-flowchart LR
-    A[Wazuh / Suricata Alerts] --> B[FastAPI Ingestion]
-    B --> C[ChromaDB Vector Store]
-    C --> D[LangGraph Agentic RAG]
-    D --> E{LLM Verdict}
-    E -->|True Positive| F[Escalate to Analyst]
-    E -->|False Positive| G[Auto-Close]
-    E -->|Ambiguous| H[Manual Review]
-    D --> I[React.js Dashboard]
-```
-
-**Tech:** LangGraph · ChromaDB · FastAPI · React.js · Wazuh · Suricata · PostgreSQL
-**Repository:** [LINK]
-
-</details>
-
-<details>
-<summary><b>🔎 SOC Alert Classifier</b></summary>
-<br/>
-
-LLM-based TRUE_POSITIVE / FALSE_POSITIVE / AMBIGUOUS verdict engine with six formal behavioral indicator categories
-and priority-ordered decision logic.
-
-**Tech:** Python · Prompt Engineering
-**Repository:** [LINK]
-
-</details>
-
-<details>
-<summary><b>🦠 Malware Analysis Reports</b></summary>
-<br/>
-
-Static & dynamic analysis writeups — Agent Tesla, Remcos, LockBit, and Emotet-style samples — with IOCs and
-behavioral indicators, written up to portfolio/CV standard.
-
-**Tools:** PMAT-labs · Any.Run · Hybrid Analysis · theZoo
-**Repository:** [LINK]
-
-</details>
-
-<details>
-<summary><b>💻 Portfolio Website</b></summary>
-<br/>
-
-Single-file, dark SOC-themed site with a live simulated alert feed.
-
-**Tech:** HTML · CSS · JS
-**Repository:** [LINK] · **Live Demo:** [LINK]
-
-</details>
-
-<div align="center"><img src="./divider.svg" width="100%"/></div>
-
-## `// 06` GitHub Activity
-
-<div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=5FD4E8&icon_color=00F0FF&text_color=c9d1d9&bg_color=0D1B2A" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=dark&hide_border=true&background=0D1B2A&ring=00F0FF&fire=00F0FF&currStreakLabel=5FD4E8" />
-</div>
-
-<div align="center"><img src="./divider.svg" width="100%"/></div>
-
-## `// 07` Contact
-
-[YOUR_EMAIL] · [YOUR_LINKEDIN_URL] · [YOUR_GITHUB_URL] · [YOUR_TRYHACKME_URL] · Punjab, Pakistan
-
-<div align="center">
-<img src="./footer-scan.svg" width="100%"/>
-</div>
+</p>
