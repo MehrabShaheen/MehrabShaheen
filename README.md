@@ -6,7 +6,7 @@
 
 # Mehrab Shaheen
 
-### Security Operations • Detection Engineering • AI Security
+### Security Operations  • AI Security
 
 Building intelligent security solutions that transform raw telemetry into actionable threat intelligence.
 
@@ -33,7 +33,7 @@ Building intelligent security solutions that transform raw telemetry into action
 </div>
 ## About
 
-Cybersecurity graduate specializing in **Security Operations (SOC)**, **Detection Engineering**, and **AI-assisted security automation**. My work focuses on building practical security solutions that improve threat detection, investigation, and incident response through intelligent analysis, behavioral correlation, and modern security engineering practices.
+Cybersecurity graduate specializing in **Security Operations (SOC)**, and **AI-assisted security automation**. My work focuses on building practical security solutions that improve threat detection, investigation, and incident response through intelligent analysis, behavioral correlation, and modern security engineering practices.
 ## Core Expertise
 
 <p align="center">
@@ -86,11 +86,6 @@ An enterprise-inspired **AI-assisted Security Operations Center (SOC)** platform
 | 🛡 Explainable Analysis | Provides reasoning behind AI outputs |
 
 
----
-
-# Tech Stack
-
-```md
 ## Technology Stack
 
 <p align="center">
