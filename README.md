@@ -2,7 +2,7 @@
 
 <!-- HERO SVG -->
 
-<img src="./hero.svg" width="100%" alt="Mehrab Shaheen"/>
+<img src="./header-scan.svg" width="100%" alt="Mehrab Shaheen"/>
 
 # Mehrab Shaheen
 
