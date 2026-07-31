@@ -2,7 +2,7 @@
 
 <!-- HERO SVG -->
 
-<img src="./assets/hero.svg" width="100%" alt="Mehrab Shaheen"/>
+<img src="./hero.svg" width="100%" alt="Mehrab Shaheen"/>
 
 # Mehrab Shaheen
 
@@ -59,7 +59,7 @@ Cybersecurity graduate specializing in **Security Operations (SOC)**, and **AI-a
 An enterprise-inspired **AI-assisted Security Operations Center (SOC)** platform designed to reduce alert fatigue and accelerate security investigations by transforming high-volume security telemetry into contextual, analyst-ready intelligence.
 > <p align="center">
 
-<img src="./assets/architecture-preview.png" width="95%"/>
+<img src="./architecture-preview.png" width="95%"/>
 
 </p>
 ## What It Delivers
