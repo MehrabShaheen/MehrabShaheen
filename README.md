@@ -4,8 +4,6 @@
 
 <img src="./header-scan.svg" width="100%" alt="Mehrab Shaheen"/>
 
-# Mehrab Shaheen
-
 ### Security Operations  • AI Security
 
 Building intelligent security solutions that transform raw telemetry into actionable threat intelligence.
@@ -16,7 +14,7 @@ Building intelligent security solutions that transform raw telemetry into action
 <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/mehrab-shaheen-8926822a9">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -24,7 +22,7 @@ Building intelligent security solutions that transform raw telemetry into action
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mehrabshaheen.13@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
