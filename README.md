@@ -211,14 +211,14 @@ View Repository →
 
 <p align="center">
 
-<img src="./assets/icons/wazuh.svg" width="42"/>
-<img src="./assets/icons/splunk.svg" width="42"/>
-<img src="./assets/icons/suricata.svg" width="42"/>
-<img src="./assets/icons/sysmon.svg" width="42"/>
-<img src="./assets/icons/pfsense.svg" width="42"/>
-<img src="./assets/icons/langgraph.svg" width="42"/>
-<img src="./assets/icons/chroma.svg" width="42"/>
-<img src="./assets/icons/mitre.svg" width="42"/>
+<img src="./icons/wazuh.svg" width="42"/>
+<img src="./icons/splunk.svg" width="42"/>
+<img src="./icons/suricata.svg" width="42"/>
+<img src="./icons/sysmon.svg" width="42"/>
+<img src="./icons/pfsense.svg" width="42"/>
+<img src="./icons/langgraph.svg" width="42"/>
+<img src="./icons/chroma.svg" width="42"/>
+<img src="./icons/mitre.svg" width="42"/>
 
 </p>
 # Certifications
@@ -226,8 +226,8 @@ View Repository →
 | Certification | Status |
 |---------------|--------|
 | Google Cybersecurity | ✅ |
-| Cisco Networking Academy | ✅ |
-| EC-Council | ✅ |
+| Cybersecurity Training Certificate from NAVTCC | ✅ |
+| EC-Council CEH| ✅ |
 | TryHackMe | ✅ |
 
 # Let's Connect
