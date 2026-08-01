@@ -37,7 +37,7 @@ My foundation is deliberately hands-on. I've designed enterprise-style SOC and I
 
 Where I focus now is the intersection: using **Retrieval-Augmented Generation**, contextual reasoning, and behavioral correlation to help analysts move faster through alert noise — without ever taking the human out of the decision. My flagship project, an AI-Assisted SOC platform, is built entirely around that principle.
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## Core Expertise
 
@@ -132,7 +132,7 @@ Where I focus now is the intersection: using **Retrieval-Augmented Generation**,
 ## Experience
 
 <div align="center">
-<img src="./assets/experience-timeline.svg" width="100%" alt="Career timeline"/>
+<img src="./experience-timeline.svg" width="100%" alt="Career timeline"/>
 </div>
 
 <br/>
