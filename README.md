@@ -14,7 +14,7 @@ SETUP:
 -->
 
 <div align="center">
-<img src="./assets/header-scan.svg" width="100%" alt="Mehrab Shaheen"/>
+<img src="./header-scan(2).svg" width="100%" alt="Mehrab Shaheen"/>
 </div>
 
 <p align="center">
@@ -202,11 +202,11 @@ Windows privilege escalation techniques in controlled lab environments.
 ## Experience
 
 **SOC Analyst Intern** — CyberFix
-`Jul 2025 – Oct 2025` · Remote / Islamabad, Pakistan
+`Jul 2025 – Oct 2025` · Remote / Islamabad, Pakistan'
 Enterprise-style SOC environment: security monitoring, SIEM operations (Wazuh, Splunk), threat detection, incident investigation, phishing analysis, and threat intelligence (MISP, OpenCTI).
 
 **Cybersecurity Intern** — Bits Phile
-`Apr 2025 – Jul 2025` · Chakwal, Pakistan
+`Apr 2025 – Jul 2025` · Chakwal, Pakistan'
 Network reconnaissance, vulnerability assessment (Nmap, OpenVAS), OSINT, traffic analysis (Wireshark), and SIEM/IDS deployment.
 
 <div align="center"><img src="./assets/divider.svg" width="100%"/></div>
@@ -231,5 +231,5 @@ Network reconnaissance, vulnerability assessment (Nmap, OpenVAS), OSINT, traffic
 </p>
 
 <div align="center">
-<img src="./assets/footer-scan.svg" width="100%"/>
+<img src="./footer-scan(1).svg" width="100%"/>
 </div>
