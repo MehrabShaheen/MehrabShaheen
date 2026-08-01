@@ -27,7 +27,7 @@ Engineering intelligent Security Operations that transform raw telemetry into ac
 <a href="mailto:mehrabshaheen.13@gmail.com"><img src="https://img.shields.io/badge/Email-0D1416?style=for-the-badge&logo=gmail&logoColor=4FA6A0"/></a>
 </p>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## About
 
