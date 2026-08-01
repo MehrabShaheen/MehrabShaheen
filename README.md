@@ -14,7 +14,7 @@ SETUP:
 -->
 
 <div align="center">
-<img src="./header-scan.svg" width="100%" alt="Mehrab Shaheen"/>
+<img src="./header-scan(2).svg" width="100%" alt="Mehrab Shaheen"/>
 </div>
 
 <p align="center">
@@ -28,13 +28,13 @@ Engineering intelligent Security Operations that transform raw telemetry into ac
 <a href="mailto:mehrabshaheen.13@gmail.com"><img src="https://img.shields.io/badge/Email-0D1416?style=for-the-badge&logo=gmail&logoColor=4FA6A0"/></a>
 </p>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## About
 
 Cybersecurity graduate (BS Information Technology, University of Chakwal) specializing in **Security Operations (SOC)** and **AI-assisted security automation**. My work focuses on building practical security solutions that improve threat detection, investigation, and incident response through intelligent analysis, behavioral correlation, and modern security engineering practices — bridging traditional cybersecurity with AI-powered Security Operations.
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## Core Expertise
 
@@ -50,7 +50,7 @@ Cybersecurity graduate (BS Information Technology, University of Chakwal) specia
 <img src="https://img.shields.io/badge/Malware%20Analysis-2A1E12?style=for-the-badge&labelColor=2A1E12&color=E3A768"/>
 </p>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## ⭐ AI-Assisted SOC — Flagship Project
 
@@ -58,7 +58,7 @@ Cybersecurity graduate (BS Information Technology, University of Chakwal) specia
 > An enterprise-inspired AI-assisted Security Operations Center platform designed to reduce alert fatigue and accelerate security investigations by transforming high-volume security telemetry into contextual, analyst-ready intelligence.
 
 <div align="center">
-<img src="./assets/flagship-workflow.svg" width="100%" alt="AI-Assisted SOC investigation pipeline"/>
+<img src="./flagship-workflow.svg" width="100%" alt="AI-Assisted SOC investigation pipeline"/>
 </div>
 
 **Key Capabilities**
@@ -92,7 +92,7 @@ Cybersecurity graduate (BS Information Technology, University of Chakwal) specia
 </a>
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## Featured Repositories
 
@@ -209,7 +209,7 @@ Enterprise-style SOC environment: security monitoring, SIEM operations (Wazuh, S
 `Apr 2025 – Jul 2025` · Chakwal, Pakistan'
 Network reconnaissance, vulnerability assessment (Nmap, OpenVAS), OSINT, traffic analysis (Wireshark), and SIEM/IDS deployment.
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## Certifications
 
