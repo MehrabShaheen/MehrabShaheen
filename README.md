@@ -2,19 +2,18 @@
 =====================================================================
 MEHRAB SHAHEEN — GITHUB PROFILE README
 Theme: "Signal & Noise" — matches personal portfolio website
-(charcoal-teal background, amber/copper accent, muted teal secondary)
 
 SETUP:
 1. Create a repo named exactly "MehrabShaheen" (your GitHub username), public.
 2. Upload the /assets folder (header-scan.svg, divider.svg,
-   flagship-workflow.svg, footer-scan.svg) to the repo root.
+   experience-timeline.svg, footer-scan.svg) to the repo root.
 3. Paste this file as README.md.
 4. Replace YOUR_PORTFOLIO_URL with your live portfolio link once deployed.
 =====================================================================
 -->
 
 <div align="center">
-<img src="./header-scan(2).svg" width="100%" alt="Mehrab Shaheen"/>
+<img src="./assets/header-scan.svg" width="100%" alt="Mehrab Shaheen"/>
 </div>
 
 <p align="center">
@@ -22,19 +21,23 @@ Engineering intelligent Security Operations that transform raw telemetry into ac
 </p>
 
 <p align="center">
-<a href="https://MehrabShaheen/netlify.app"><img src="https://img.shields.io/badge/Portfolio-0D1416?style=for-the-badge&logo=googlechrome&logoColor=E3A768"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1416?style=for-the-badge&logo=googlechrome&logoColor=E3A768"/></a>
 <a href="https://www.linkedin.com/in/mehrab-shaheen-8926822a9"><img src="https://img.shields.io/badge/LinkedIn-0D1416?style=for-the-badge&logo=linkedin&logoColor=4FA6A0"/></a>
 <a href="https://github.com/MehrabShaheen"><img src="https://img.shields.io/badge/GitHub-0D1416?style=for-the-badge&logo=github&logoColor=E3A768"/></a>
 <a href="mailto:mehrabshaheen.13@gmail.com"><img src="https://img.shields.io/badge/Email-0D1416?style=for-the-badge&logo=gmail&logoColor=4FA6A0"/></a>
 </p>
 
-<div align="center"><img src="./divider.svg" width="100%"/></div>
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## About
 
-Cybersecurity graduate (BS Information Technology, University of Chakwal) specializing in **Security Operations (SOC)** and **AI-assisted security automation**. My work focuses on building practical security solutions that improve threat detection, investigation, and incident response through intelligent analysis, behavioral correlation, and modern security engineering practices — bridging traditional cybersecurity with AI-powered Security Operations.
+I build the bridge between traditional Security Operations and AI-assisted defense — the kind of analyst who reads raw logs by choice and still believes the best detections are explainable, not just accurate.
 
-<div align="center"><img src="./divider.svg" width="100%"/></div>
+My foundation is deliberately hands-on. I've designed enterprise-style SOC and IT infrastructure labs from the ground up — Active Directory, SIEM pipelines, IDS/IPS, threat intelligence feeds — and used them to run real investigations: alert triage, malware analysis, phishing forensics, privilege escalation. That practical base is backed by formal training on both sides of the discipline: **EC-Council's Certified Ethical Hacker (CEH)**, **Google's Cybersecurity Professional Certificate**, and **NAVTTC's Cyber Security Training Program**, covering network security, penetration testing, and SOC fundamentals — validated further by ranking in the **top 4.6% nationwide** in Pakistan's HEC/PSEB/P@SHA National Skill Competency Test.
+
+Where I focus now is the intersection: using **Retrieval-Augmented Generation**, contextual reasoning, and behavioral correlation to help analysts move faster through alert noise — without ever taking the human out of the decision. My flagship project, an AI-Assisted SOC platform, is built entirely around that principle.
+
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## Core Expertise
 
@@ -50,18 +53,12 @@ Cybersecurity graduate (BS Information Technology, University of Chakwal) specia
 <img src="https://img.shields.io/badge/Malware%20Analysis-2A1E12?style=for-the-badge&labelColor=2A1E12&color=E3A768"/>
 </p>
 
-<div align="center"><img src="./divider.svg" width="100%"/></div>
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## ⭐ AI-Assisted SOC — Flagship Project
 
 > **Final Year Project**
 > An enterprise-inspired AI-assisted Security Operations Center platform designed to reduce alert fatigue and accelerate security investigations by transforming high-volume security telemetry into contextual, analyst-ready intelligence.
-
-<div align="center">
-<img src="./flagship-workflow.svg" width="100%" alt="AI-Assisted SOC investigation pipeline"/>
-</div>
-
-**Key Capabilities**
 
 | Capability | Description |
 |---|---|
@@ -92,88 +89,21 @@ Cybersecurity graduate (BS Information Technology, University of Chakwal) specia
 </a>
 </div>
 
-<div align="center"><img src="./divider.svg" width="100%"/></div>
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## Featured Repositories
 
-<table>
-<tr>
-<td width="50%">
-
-**🤖 AI-Assisted SOC**
-Enterprise AI-powered SOC platform for intelligent alert investigation.
-[View Repository →](https://github.com/MehrabShaheen/AI-powered-SOC-Assistant-for-Automated-Alert-Analysis-and-Incident-Investigation)
-
-</td>
-<td width="50%">
-
-**🛡️ Enterprise SOC Home Lab**
-Enterprise-style Security Operations Center with attack simulation.
-[View Repository →](https://github.com/MehrabShaheen/Enterprise-SOC-Home-Lab)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🏢 Enterprise IT Infrastructure Lab**
-Virtualized enterprise infrastructure — Active Directory, DNS, DHCP, pfSense.
-[View Repository →](https://github.com/MehrabShaheen/Enterprise-IT-Infrastructure-Lab)
-
-</td>
-<td width="50%">
-
-**📡 Splunk SIEM Lab**
-Centralized log collection, SPL queries, dashboards, and alerting.
-[View Repository →](https://github.com/MehrabShaheen/Splunk-SIEM-Lab)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔍 SOC Alert Investigations**
-Structured investigations — alert triage, log correlation, IOC analysis.
-[View Repository →](https://github.com/MehrabShaheen/SOC-Alerts-Investigations)
-
-</td>
-<td width="50%">
-
-**🦠 Malware Analysis**
-Static & dynamic malware analysis reports and reverse engineering.
-[View Repository →](https://github.com/MehrabShaheen/Malware-Analysis)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🎯 Cyber Threat Intelligence**
-IOC enrichment, MITRE ATT&CK mapping, MISP, and OpenCTI workflows.
-[View Repository →](https://github.com/MehrabShaheen/Cyber-Threat-Intelligence)
-
-</td>
-<td width="50%">
-
-**✉️ Phishing Email Analysis**
-Header analysis, spoofing techniques, and email-based IOCs.
-[View Repository →](https://github.com/MehrabShaheen/Phishing-Email-Analysis)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🪟 Windows Privilege Escalation Lab**
-Windows privilege escalation techniques in controlled lab environments.
-[View Repository →](https://github.com/MehrabShaheen/Windows-Privilege-Escalation-Lab)
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
+| Repository | Description |
+|---|---|
+| 🤖 [AI-Assisted SOC](https://github.com/MehrabShaheen/AI-powered-SOC-Assistant-for-Automated-Alert-Analysis-and-Incident-Investigation) | Enterprise AI-powered SOC platform for intelligent alert investigation |
+| 🛡️ [Enterprise SOC Home Lab](https://github.com/MehrabShaheen/Enterprise-SOC-Home-Lab) | Enterprise-style Security Operations Center with attack simulation |
+| 🏢 [Enterprise IT Infrastructure Lab](https://github.com/MehrabShaheen/Enterprise-IT-Infrastructure-Lab) | Virtualized enterprise infrastructure — Active Directory, DNS, DHCP, pfSense |
+| 📡 [Splunk SIEM Lab](https://github.com/MehrabShaheen/Splunk-SIEM-Lab) | Centralized log collection, SPL queries, dashboards, and alerting |
+| 🔍 [SOC Alert Investigations](https://github.com/MehrabShaheen/SOC-Alerts-Investigations) | Structured investigations — alert triage, log correlation, IOC analysis |
+| 🦠 [Malware Analysis](https://github.com/MehrabShaheen/Malware-Analysis) | Static & dynamic malware analysis reports and reverse engineering |
+| 🎯 [Cyber Threat Intelligence](https://github.com/MehrabShaheen/Cyber-Threat-Intelligence) | IOC enrichment, MITRE ATT&CK mapping, MISP, and OpenCTI workflows |
+| ✉️ [Phishing Email Analysis](https://github.com/MehrabShaheen/Phishing-Email-Analysis) | Header analysis, spoofing techniques, and email-based IOCs |
+| 🪟 [Windows Privilege Escalation Lab](https://github.com/MehrabShaheen/Windows-Privilege-Escalation-Lab) | Windows privilege escalation techniques in controlled lab environments |
 
 <div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
@@ -201,15 +131,50 @@ Windows privilege escalation techniques in controlled lab environments.
 
 ## Experience
 
-**SOC Analyst Intern** — CyberFix
-`Jul 2025 – Oct 2025` · Remote / Islamabad, Pakistan'
-Enterprise-style SOC environment: security monitoring, SIEM operations (Wazuh, Splunk), threat detection, incident investigation, phishing analysis, and threat intelligence (MISP, OpenCTI).
+<div align="center">
+<img src="./assets/experience-timeline.svg" width="100%" alt="Career timeline"/>
+</div>
 
-**Cybersecurity Intern** — Bits Phile
-`Apr 2025 – Jul 2025` · Chakwal, Pakistan'
-Network reconnaissance, vulnerability assessment (Nmap, OpenVAS), OSINT, traffic analysis (Wireshark), and SIEM/IDS deployment.
+<br/>
 
-<div align="center"><img src="./divider.svg" width="100%"/></div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**SOC Analyst Intern** · CyberFix
+`Jul 2025 – Oct 2025` — Remote / Islamabad, Pakistan
+
+Worked inside an enterprise-style Security Operations environment, taking ownership of monitoring and investigation rather than just observing it.
+
+- Deployed a Home SOC Lab — Windows Server, Active Directory, pfSense, Suricata
+- Ran centralized monitoring with Wazuh SIEM, Sysmon, and log pipelines
+- Built Splunk dashboards, SPL queries, and alerting rules
+- Investigated phishing emails and enriched findings via MISP / OpenCTI
+- Documented incidents in structured, SOC-style reports
+
+`Wazuh` `Splunk` `Sysmon` `pfSense` `Suricata` `MISP` `OpenCTI`
+
+</td>
+<td width="50%" valign="top">
+
+**Cybersecurity Intern** · Bits Phile
+`Apr 2025 – Jul 2025` — Chakwal, Pakistan
+
+Built the fundamentals that everything after this internship stood on — reconnaissance, traffic analysis, and defensive labs.
+
+- Performed recon and vulnerability assessments (Nmap, OpenVAS)
+- Conducted OSINT and EXIF metadata investigations
+- Analyzed traffic with Wireshark to flag suspicious patterns
+- Completed privilege escalation and endpoint defense labs
+- Simulated phishing/social engineering to sharpen detection skills
+
+`Nmap` `OpenVAS` `Wireshark` `Splunk` `Wazuh` `MITRE ATT&CK`
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## Certifications
 
@@ -231,5 +196,5 @@ Network reconnaissance, vulnerability assessment (Nmap, OpenVAS), OSINT, traffic
 </p>
 
 <div align="center">
-<img src="./footer-scan(1).svg" width="100%"/>
+<img src="./assets/footer-scan.svg" width="100%"/>
 </div>
