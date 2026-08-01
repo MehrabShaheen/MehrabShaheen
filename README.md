@@ -14,7 +14,7 @@ SETUP:
 -->
 
 <div align="center">
-<img src="./header-scan(2).svg" width="100%" alt="Mehrab Shaheen"/>
+<img src="./header-scan.svg" width="100%" alt="Mehrab Shaheen"/>
 </div>
 
 <p align="center">
