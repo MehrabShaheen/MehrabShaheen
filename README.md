@@ -21,7 +21,7 @@ Engineering intelligent Security Operations that transform raw telemetry into ac
 </p>
 
 <p align="center">
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1416?style=for-the-badge&logo=googlechrome&logoColor=E3A768"/></a>
+<a href="https://mehrabshaheen.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0D1416?style=for-the-badge&logo=googlechrome&logoColor=E3A768"/></a>
 <a href="https://www.linkedin.com/in/mehrab-shaheen-8926822a9"><img src="https://img.shields.io/badge/LinkedIn-0D1416?style=for-the-badge&logo=linkedin&logoColor=4FA6A0"/></a>
 <a href="https://github.com/MehrabShaheen"><img src="https://img.shields.io/badge/GitHub-0D1416?style=for-the-badge&logo=github&logoColor=E3A768"/></a>
 <a href="mailto:mehrabshaheen.13@gmail.com"><img src="https://img.shields.io/badge/Email-0D1416?style=for-the-badge&logo=gmail&logoColor=4FA6A0"/></a>
@@ -31,11 +31,11 @@ Engineering intelligent Security Operations that transform raw telemetry into ac
 
 ## About
 
-I build the bridge between traditional Security Operations and AI-assisted defense — the kind of analyst who reads raw logs by choice and still believes the best detections are explainable, not just accurate.
+I specialize in Security Operations, threat detection, and AI-assisted security engineering — building enterprise-style SOC and IT infrastructure labs, and running real investigations across SIEM, malware analysis, and threat intelligence.
 
-My foundation is deliberately hands-on. I've designed enterprise-style SOC and IT infrastructure labs from the ground up — Active Directory, SIEM pipelines, IDS/IPS, threat intelligence feeds — and used them to run real investigations: alert triage, malware analysis, phishing forensics, privilege escalation. That practical base is backed by formal training on both sides of the discipline: **EC-Council's Certified Ethical Hacker (CEH)**, **Google's Cybersecurity Professional Certificate**, and **NAVTTC's Cyber Security Training Program**, covering network security, penetration testing, and SOC fundamentals — validated further by ranking in the **top 4.6% nationwide** in Pakistan's HEC/PSEB/P@SHA National Skill Competency Test.
+My flagship project, an AI-Assisted SOC platform, applies Retrieval-Augmented Generation and contextual reasoning to cut through alert noise and speed up investigations, while keeping the analyst firmly in control of every decision.
 
-Where I focus now is the intersection: using **Retrieval-Augmented Generation**, contextual reasoning, and behavioral correlation to help analysts move faster through alert noise — without ever taking the human out of the decision. My flagship project, an AI-Assisted SOC platform, is built entirely around that principle.
+Next, I'm focused on deepening detection engineering and threat hunting as I move into a full-time SOC Analyst role.
 
 <div align="center"><img src="./divider.svg" width="100%"/></div>
 
@@ -107,6 +107,28 @@ Where I focus now is the intersection: using **Retrieval-Augmented Generation**,
 
 <div align="center"><img src="./divider.svg" width="100%"/></div>
 
+## Technical Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,docker,linux,bash,git,github,vscode"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Wazuh-141F22?style=flat-square&labelColor=141F22&color=4FA6A0"/>
+<img src="https://img.shields.io/badge/Splunk-141F22?style=flat-square&labelColor=141F22&color=4FA6A0"/>
+<img src="https://img.shields.io/badge/Suricata-141F22?style=flat-square&labelColor=141F22&color=4FA6A0"/>
+<img src="https://img.shields.io/badge/Sysmon-141F22?style=flat-square&labelColor=141F22&color=4FA6A0"/>
+<img src="https://img.shields.io/badge/pfSense-141F22?style=flat-square&labelColor=141F22&color=4FA6A0"/>
+<br/>
+<img src="https://img.shields.io/badge/MISP-2A1E12?style=flat-square&labelColor=2A1E12&color=E3A768"/>
+<img src="https://img.shields.io/badge/OpenCTI-2A1E12?style=flat-square&labelColor=2A1E12&color=E3A768"/>
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-2A1E12?style=flat-square&labelColor=2A1E12&color=E3A768"/>
+<img src="https://img.shields.io/badge/Nmap-2A1E12?style=flat-square&labelColor=2A1E12&color=E3A768"/>
+<img src="https://img.shields.io/badge/Wireshark-2A1E12?style=flat-square&labelColor=2A1E12&color=E3A768"/>
+</p>
+
+<div align="center"><img src="./divider.svg" width="100%"/></div>
+
 ## Experience
 
 <div align="center">
@@ -122,15 +144,23 @@ Where I focus now is the intersection: using **Retrieval-Augmented Generation**,
 **SOC Analyst Intern** · CyberFix
 `Jul 2025 – Oct 2025` — Remote / Islamabad, Pakistan
 
-Worked inside an enterprise-style Security Operations environment, taking ownership of monitoring and investigation rather than just observing it.
+Worked in an enterprise-style Security Operations environment focused on security monitoring, SIEM operations, threat detection, incident investigation, attack simulation, and AI-assisted security workflows through practical blue team activities.
 
-- Deployed a Home SOC Lab — Windows Server, Active Directory, pfSense, Suricata
-- Ran centralized monitoring with Wazuh SIEM, Sysmon, and log pipelines
-- Built Splunk dashboards, SPL queries, and alerting rules
-- Investigated phishing emails and enriched findings via MISP / OpenCTI
-- Documented incidents in structured, SOC-style reports
+<details>
+<summary><b>View Responsibilities</b></summary>
 
-`Wazuh` `Splunk` `Sysmon` `pfSense` `Suricata` `MISP` `OpenCTI` 'Spunk' Active Dircetory'
+- Designed and deployed an enterprise-style Home SOC Lab with Windows Server, Active Directory, DNS, DHCP, pfSense, Suricata, and multiple Windows endpoints.
+- Configured centralized security monitoring using Wazuh SIEM, Sysmon, and log collection pipelines for alert triage and endpoint visibility.
+- Built Splunk dashboards, developed SPL queries, configured alerting, and analyzed security events across the enterprise lab.
+- Investigated phishing emails by analyzing headers, spoofing techniques, suspicious URLs, and email-based indicators of compromise.
+- Integrated threat intelligence using MISP and OpenCTI to enrich investigations and improve contextual analysis.
+- Executed attack simulations to validate detection capabilities and strengthen blue team investigation workflows.
+- Produced SOC-style incident reports documenting alerts, evidence, affected systems, root cause analysis, and response observations.
+- Documented enterprise deployments, detection workflows, dashboards, and investigation procedures to support repeatable SOC operations.
+
+</details>
+
+`Wazuh` `Splunk` `Sysmon` `pfSense` `Suricata` `MISP` `OpenCTI` `Windows Server` `Active Directory`
 
 </td>
 <td width="50%" valign="top">
@@ -138,15 +168,24 @@ Worked inside an enterprise-style Security Operations environment, taking owners
 **Cybersecurity Intern** · Bits Phile
 `Apr 2025 – Jul 2025` — Chakwal, Pakistan
 
-Built the fundamentals that everything after this internship stood on — reconnaissance, traffic analysis, and defensive labs.
+Built foundational blue team skills through practical cybersecurity labs covering vulnerability assessment, reconnaissance, network security, SIEM monitoring, and incident investigation.
 
-- Performed recon and vulnerability assessments (Nmap, OpenVAS)
-- Conducted OSINT and EXIF metadata investigations
-- Analyzed traffic with Wireshark to flag suspicious patterns
-- Completed privilege escalation and endpoint defense labs
-- Simulated phishing/social engineering to sharpen detection skills
+<details>
+<summary><b>View Responsibilities</b></summary>
 
-`Nmap` `OpenVAS` `Wireshark` `Splunk` `Wazuh` `MITRE ATT&CK`
+- Performed network reconnaissance, service enumeration, and vulnerability assessments using Nmap and OpenVAS.
+- Conducted OSINT investigations and EXIF metadata analysis to support intelligence gathering activities.
+- Analyzed network traffic using Wireshark to identify suspicious communication patterns and potential indicators of compromise.
+- Completed practical defensive security labs focused on privilege escalation, Windows security, endpoint analysis, and attack simulation.
+- Deployed and configured SIEM, IDS/IPS, endpoint monitoring, and centralized logging solutions within controlled environments.
+- Developed basic Splunk dashboards, SIEM detection use cases, and monitoring workflows.
+- Simulated phishing and social engineering attacks to strengthen detection and investigation skills.
+- Applied MITRE ATT&CK techniques and IOC analysis during security investigations.
+- Produced structured incident reports and technical documentation following SOC reporting practices.
+
+</details>
+
+`Nmap` `OpenVAS` `Wireshark` `Splunk` `Wazuh` `Sysmon` `pfSense` `Suricata` `MITRE ATT&CK`
 
 </td>
 </tr>
