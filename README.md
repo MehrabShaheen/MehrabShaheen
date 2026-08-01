@@ -13,7 +13,7 @@ SETUP:
 -->
 
 <div align="center">
-<img src="./assets/header-scan.svg" width="100%" alt="Mehrab Shaheen"/>
+<img src="./header-scan.svg" width="100%" alt="Mehrab Shaheen"/>
 </div>
 
 <p align="center">
@@ -53,7 +53,7 @@ Where I focus now is the intersection: using **Retrieval-Augmented Generation**,
 <img src="https://img.shields.io/badge/Malware%20Analysis-2A1E12?style=for-the-badge&labelColor=2A1E12&color=E3A768"/>
 </p>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## ⭐ AI-Assisted SOC — Flagship Project
 
@@ -89,7 +89,7 @@ Where I focus now is the intersection: using **Retrieval-Augmented Generation**,
 </a>
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## Featured Repositories
 
@@ -105,7 +105,7 @@ Where I focus now is the intersection: using **Retrieval-Augmented Generation**,
 | ✉️ [Phishing Email Analysis](https://github.com/MehrabShaheen/Phishing-Email-Analysis) | Header analysis, spoofing techniques, and email-based IOCs |
 | 🪟 [Windows Privilege Escalation Lab](https://github.com/MehrabShaheen/Windows-Privilege-Escalation-Lab) | Windows privilege escalation techniques in controlled lab environments |
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## Technical Stack
 
@@ -127,7 +127,7 @@ Where I focus now is the intersection: using **Retrieval-Augmented Generation**,
 <img src="https://img.shields.io/badge/Wireshark-2A1E12?style=flat-square&labelColor=2A1E12&color=E3A768"/>
 </p>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## Experience
 
@@ -152,7 +152,7 @@ Worked inside an enterprise-style Security Operations environment, taking owners
 - Investigated phishing emails and enriched findings via MISP / OpenCTI
 - Documented incidents in structured, SOC-style reports
 
-`Wazuh` `Splunk` `Sysmon` `pfSense` `Suricata` `MISP` `OpenCTI`
+`Wazuh` `Splunk` `Sysmon` `pfSense` `Suricata` `MISP` `OpenCTI` 'Spunk' Active Dircetory'
 
 </td>
 <td width="50%" valign="top">
@@ -174,7 +174,7 @@ Built the fundamentals that everything after this internship stood on — reconn
 </tr>
 </table>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## Certifications
 
@@ -185,7 +185,7 @@ Built the fundamentals that everything after this internship stood on — reconn
 | Google Cybersecurity Professional Certificate | ✅ |
 | Cyber Security Training Program — NAVTTC | ✅ |
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## Let's Connect
 
@@ -196,5 +196,5 @@ Built the fundamentals that everything after this internship stood on — reconn
 </p>
 
 <div align="center">
-<img src="./assets/footer-scan.svg" width="100%"/>
+<img src="./footer-scan.svg" width="100%"/>
 </div>
