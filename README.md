@@ -107,28 +107,6 @@ Where I focus now is the intersection: using **Retrieval-Augmented Generation**,
 
 <div align="center"><img src="./divider.svg" width="100%"/></div>
 
-## Technical Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,docker,linux,bash,git,github,vscode"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Wazuh-141F22?style=flat-square&labelColor=141F22&color=4FA6A0"/>
-<img src="https://img.shields.io/badge/Splunk-141F22?style=flat-square&labelColor=141F22&color=4FA6A0"/>
-<img src="https://img.shields.io/badge/Suricata-141F22?style=flat-square&labelColor=141F22&color=4FA6A0"/>
-<img src="https://img.shields.io/badge/Sysmon-141F22?style=flat-square&labelColor=141F22&color=4FA6A0"/>
-<img src="https://img.shields.io/badge/pfSense-141F22?style=flat-square&labelColor=141F22&color=4FA6A0"/>
-<br/>
-<img src="https://img.shields.io/badge/MISP-2A1E12?style=flat-square&labelColor=2A1E12&color=E3A768"/>
-<img src="https://img.shields.io/badge/OpenCTI-2A1E12?style=flat-square&labelColor=2A1E12&color=E3A768"/>
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-2A1E12?style=flat-square&labelColor=2A1E12&color=E3A768"/>
-<img src="https://img.shields.io/badge/Nmap-2A1E12?style=flat-square&labelColor=2A1E12&color=E3A768"/>
-<img src="https://img.shields.io/badge/Wireshark-2A1E12?style=flat-square&labelColor=2A1E12&color=E3A768"/>
-</p>
-
-<div align="center"><img src="./divider.svg" width="100%"/></div>
-
 ## Experience
 
 <div align="center">
